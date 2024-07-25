@@ -27,7 +27,7 @@ Hello everyone! My name is Twincy, and this is my portfolio. I have a background
 - **Repository:** [python-data-analysis](python-data-analysis)
 
 ## Certificates
-- **Certificate Name - Institution, Year**
+- [BA - Udemy, 2023](BA Udemy Certificate.pdf)
 
 ## Contacts
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/twincyprajapati)
