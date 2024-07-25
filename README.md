@@ -30,6 +30,6 @@ Hello everyone! My name is Twincy, and this is my portfolio. I have a background
 - [BA - Udemy, 2023]
 
 ## Contacts
-- **LinkedIn:** [LinkedIn Profile]([https://www.linkedin.com/in/twincyprajapati](https://www.linkedin.com/in/twincy/))
+- **LinkedIn:** [https://www.linkedin.com/in/twincyprajapati](https://www.linkedin.com/in/twincy/)
 - **Email:** twincyprajapati921@gmail.com
 
