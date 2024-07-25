@@ -32,4 +32,3 @@ Hello everyone! My name is Twincy, and this is my portfolio. I have a background
 ## Contacts
 - **LinkedIn:** [https://www.linkedin.com/in/twincyprajapati](https://www.linkedin.com/in/twincy/)
 - **Email:** twincyprajapati921@gmail.com
-
